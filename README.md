@@ -3,49 +3,38 @@ House Price Prediction using Regression Models
 
 This project implements multiple regression models to predict house prices using the Boston Housing dataset.
 
-📊 Models Used
+📊 Models Used:-
 
-Linear Regression
-
-Ridge Regression
-
-Lasso Regression
-
-Polynomial Regression
+1 Linear Regression
+2 Ridge Regression
+3 Lasso Regression
+4 Polynomial Regression
 
 📈 Evaluation Metrics
 
-MAE (Mean Absolute Error)
-
-MSE (Mean Squared Error)
-
-R² Score 
+1 MAE (Mean Absolute Error)
+2 MSE (Mean Squared Error)
+3 R² Score 
 
 🏆 Results
 Model	R² Score
-Linear	0.6591
-Ridge	0.6590
-Lasso	0.6438
-Polynomial	0.7625
+Linear -	0.6591
+Ridge	- 0.6590
+Lasso	- 0.6438
+Polynomial - 0.7625
 
 Polynomial Regression achieved the best performance.
 
 🛠 Technologies Used
 
-Python
-
-Pandas
-
-NumPy
-
-Scikit-learn
-
-Matplotlib
+1 Python
+2 Pandas
+3 NumPy
+4 Scikit-learn
+5 Matplotlib
 
 ▶ How to Run
 
-Clone the repository
-
-Install requirements
-
-Run house_price_regression.ipynb
+1 Clone the repository
+2 Install requirements
+3 Run house_price_regression.ipynb
